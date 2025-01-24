@@ -35,7 +35,7 @@ print("subject 3 scores : ",stu_3_scores)
 # Q2
 
 sub_2 = scores[:,2]
-print(" subject 2scores : ",sub_2)
+print("subject 2scores : ",sub_2)
 
 # Q3
 
